@@ -1,0 +1,3 @@
+## Project Structure and Deployment Platform Setup
+
+The project was organized by creating separate folders for the frontend and backend to ensure a modular and well-structured development environment. Independent GitHub repositories were created for both components to enable efficient version control and project management. User accounts were registered on Vercel, Render, and Neon to prepare the deployment environment. These platforms were configured to support frontend hosting, backend deployment, and cloud database services, establishing the required infrastructure for application deployment and management.
