@@ -1,0 +1,3 @@
+## Application Deployment
+
+The backend application was deployed on Render by connecting the GitHub repository, configuring the deployment settings, and adding the required environment variables. The frontend application was deployed on Vercel by linking the corresponding GitHub repository and configuring the project for production. After deployment, the frontend was integrated with the deployed backend by updating the API endpoint, and the complete application was tested to verify successful communication between the frontend, backend, and cloud database.
