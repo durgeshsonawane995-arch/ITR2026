@@ -1,0 +1,3 @@
+## Database Configuration Using Environment Variables
+
+The database configuration was enhanced by storing the database connection details in an environment file to improve security and flexibility. The application was configured to load these environment variables automatically during execution. SQLAlchemy was then used to establish the database connection, create the database engine, configure session management, and define the base class for database models. A database session handler was also implemented to ensure that database connections were properly opened and closed for each request, enabling secure and efficient database operations.
